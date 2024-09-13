@@ -1,2 +1,8 @@
 # Sitio-Web-Concesionaria-Dinoco
-Sitio web que muestra los autos disponibles y permite al administrador gestionar la compra.
+Este sitio web muestra al usuario los autos con los que cuenta la consesionaria además permite al administrador gestionar la compra.
+
+Tecnologias:
+
+* PHP
+* JavaScript
+* Modelo MVC
