@@ -1,5 +1,5 @@
 # Sitio-Web-Concesionaria-Dinoco
-Este sitio web muestra al usuario los autos con los que cuenta la consesionaria además permite al administrador gestionar la compra.
+Este sitio web muestra al usuario los autos con los que cuenta la concesionaria. Además, permite al administrador gestionar las compras de los autos.
 
 Tecnologias:
 
